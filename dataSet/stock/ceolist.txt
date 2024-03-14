@@ -1,0 +1,15 @@
+# 팔로워 많은 CEO 리스트
+#####'아이디' : '@jack', '주식기호' : 'TWTR', '이름':'Jack Dorsey', '내용' : '트위터 전 최고경영자'### 상장폐지
+
+
+
+ceo_list = [{'아이디' : '@reedhastings', '주식기호' : 'NFLX', '이름':'Reed Hastings', '내용' : ' 넷플릭스 CEO'},
+{'아이디' : '@JohnLegere', '주식기호' : 'TMUS', '이름':'John Legere', '내용' : ' T-Mobile US 의 사장'},
+{'아이디' : '@elonmusk', '주식기호' : 'TSLA', '이름':'Elon Musk', '내용':'Tesla Motors CEO'},
+{'아이디' : '@tim_cock', '주식기호' : 'AAPL', '이름' : 'Tim Cook', '내용' : 'Apple CEO'},
+{'아이디' : '@richardbranson', '주식기호' : 'SPCE', '이름' : 'Richard Branson', '내용' : 'Virgin Group CEO'},
+{'아이디' : '@BillGates', '주식기호' : 'MSFT', '이름' : 'Bill Gates', '내용' : 'Microsoft Corporation CEO'},
+{'아이디' : '@Carl_C_Icahn', '주식기호' : 'IEP', '이름' : 'Carl Icahn', '내용' : 'Icahn Enterprises LP CEO'},
+{'아이디' : '@LisaSu', '주식기호' : 'AMD', '이름' : 'Mark Cuban', '내용' : 'AMD CEO'},
+{'아이디' : '@levie', '주식기호' : 'BOX', '이름' : 'Aaron Levie', '내용' : 'BOX CEO'},
+{'아이디' : '@bchesky', '주식기호' : 'ABNB', '이름' : 'Brian Chesky', '내용' : 'Airbnb CEO'}]
